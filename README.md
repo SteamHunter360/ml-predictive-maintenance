@@ -1,6 +1,6 @@
 # 📊 3. Machine Learning Project (Predictive Maintenance)
 
-# 📊 Predictive Maintenance with Machine Learning
+ 📊 Predictive Maintenance with Machine Learning
 
 A machine learning model for predicting equipment failures based on sensor data.
 
